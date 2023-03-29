@@ -11,7 +11,7 @@
    text-transform: capitalize;
 }
 :root{
-    --verde: #a457d1;
+    --verde: #2aa72e;
     --limon: #5c5028;
     --degradado:linear-gradient(90deg, var(--limon),var(--verde));
 }
@@ -113,7 +113,7 @@ header label{
     }
 }
 img{
-    height: 300px;
+    height: 320px;
     width: 200px;
     justify-content: center;
     display: flex;
@@ -126,18 +126,18 @@ p{
 }
 h1{
     text-align: center;
-    color: #a457d1;
+    color: #2aa72e;
     font-size: 3rem;
 }
 h2{
     text-align: center;
     font-size: 2rem;
-    color:rgb(82, 47, 102);
+    color:rgb(44, 163, 126);
 }
 h3{
     text-align: center;
     font-size: 1.7rem;
-    color: rgb(156, 78, 114);
+    color: rgb(31, 132, 88);
 }
 h4{
     text-align: center;
